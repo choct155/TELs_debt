@@ -1,0 +1,5 @@
+A common problem in the analysis of spatial data is deciding how to harmonize data from different levels of geographic resolution.  For example, suppose Municipality X crosses a county border, so that a portion of X lies in County A, while another lies in County B.  If the municipality is my unit of analysis, but detailed socioeconomic data exist only at the county level, how do I map that data to X?  The two approaches that I have seen are *land area-based proportional allocation* and *plurality allocation*.
+
+**Land Area-Based Proportional Allocation**
+
+In this scheme, let $p_A$ be the proportion of County A that is taken up by X, and $p_B$ be the parallel proportion of County B taken up by X.  Assume that structures and people are uniformly distributed across both counties.  If $n_A$ and $n_B$ are the population counts in County A and County B, respectively, the population of X $n_X$ is given by $p_A n_A + p_B n_B$.
