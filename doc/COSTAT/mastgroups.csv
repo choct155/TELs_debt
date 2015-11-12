@@ -1,0 +1,53 @@
+Subj,Subject
+AAA,Top 65
+AFN,Accommodation and Food Services - NAICS only
+AGE,Age
+AGN,Agriculture - NAICS
+AGS,Agriculture - SIC
+ANC,Ancestry
+BNK,Banking
+BPS,Building Permits
+BZA,"Business, Private Nonfarm - (U.S. Census Bureau) - Total"
+BZN,"Business, Private Nonfarm - (U.S. Census Bureau) - NAICS"
+BZS,"Business, Private Nonfarm - (U.S. Census Bureau) - SIC"
+CLF,Civilian Labor Force (Bureau of Labor Statistics)
+CRM,Crime
+EAN,"Earnings, Total and Selected Industries (Bureau of Economic Analysis) - NAICS"
+EAS,"Earnings, Total and Selected Industries (Bureau of Economic Analysis) - SIC"
+EDU,Education
+ELE,Elections (CQ Press)
+EMN,Employment (Bureau of Economic Analysis) - NAICS
+EMS,Employment (Bureau of Economic Analysis) - SIC
+FED,Federal Government
+GAN,Government (Bureau of Economic Analysis) - Earnings - NAICS
+GEE,Government (Bureau of Economic Analysis) - Earnings/Employment - SIC
+GEN,Government (Bureau of Economic Analysis) - Employment - NAICS
+HEA,Health
+HIS,Hispanic or Latino Population
+HSD,Households
+HSG,Housing
+INC,"Income, Money (U.S. Census Bureau)"
+IPE,Income and Poverty
+IRS,Internal Revenue Service - Individual taxes
+LFE,Labor Force (U.S. Census Bureau)
+LND,Land Area
+LOG,Local Area Government
+MAN,Manufactures - NAICS
+MAS,Manufactures - SIC
+NES,Nonemployer Statistics
+PEN,Personal Income (Bureau of Economic Analysis) - NAICS
+PIN,Personal Income (Bureau of Economic Analysis) - SIC
+POP,Population - Total and Selected Characteristics
+PPQ,Population - Group Quarters
+PST,Population Estimates
+PVY,Poverty
+RHI,Race data
+RTN,Retail Trade - NAICS
+RTS,Retail Trade - SIC
+SBO,Survey of Business Owners
+SEX,Sex data
+SPR,Social Programs - Social Security and Supplemental Security Income (SSI)
+VET,Veterans
+VST,"Vital Statistics - Births, Deaths, and Infant Deaths"
+WAT,Water Usage
+WTN,Wholesale Trade - NAICS
