@@ -43,7 +43,8 @@ for i,c in enumerate(header[0]):
     #...if a new field has begun...
     if new_field:
         #...capture the position at which it started
-        field_pos.append(i-4)
+        #field_pos.append(i-4) clipped first digit of net interest cost
+        field_pos.append(i-5)
 
 #Define function to insert delimeters
 def delim(line,line_len,field_pos=field_pos):
